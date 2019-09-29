@@ -23,7 +23,7 @@ our work, and I believe that this knowledge is a right.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/researchapps/health-insurance-decision/master?filepath=health_insurance.ipynb) 
 
-is an option for rendering (and customizing) the notebook, but it doesn't usually work great for me.
+Binder Hub is an option for rendering (and customizing) the notebook, but it doesn't usually work great for me.
 You can easily clone the repository here, and then start jupyter notebook (Python 3 kernel):
 
 ``bash
