@@ -14,9 +14,21 @@ and some basic thoughts about them. You might need to customize this for your us
 but hopefully it can be a programmatic start to figuring out your options.
 
  - [health insurance notebook](health_insurance.ipynb)
- - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/researchapps/health-insurance-decision/master?filepath=health_insurance.ipynb) is an option, but it doesn't usually work great for me.
 
 I hope that this notebook might be useful to others, or encourage employers to provide
 better tools to simulate anticipated costs under different scenarios. We put our life into
 our work, and I believe that this knowledge is a right.
+
+## Interactive Notebook
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/researchapps/health-insurance-decision/master?filepath=health_insurance.ipynb) 
+
+is an option for rendering (and customizing) the notebook, but it doesn't usually work great for me.
+You can easily clone the repository here, and then start jupyter notebook (Python 3 kernel):
+
+``bash
+git clone https://github.com/researchapps/health-insurance-decision
+cd health-insurance-decision
+jupyter notebook 
+```
 
