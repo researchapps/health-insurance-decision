@@ -2,8 +2,6 @@
 
 > Should We Be on the Same Health Care Plan?
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/researchapps/health-insurance-decision/master?filepath=health_insurance.ipynb)
-
 When an employer removes a health care plan option, it can leave an individual with fewer choices.
 But given a domestic relationship, there is another option of deciding to join the second individual's plan.
 But which is the better option - retaining separate plans, or being on the same plan?
@@ -16,7 +14,9 @@ and some basic thoughts about them. You might need to customize this for your us
 but hopefully it can be a programmatic start to figuring out your options.
 
  - [health insurance notebook](health_insurance.ipynb)
+ - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/researchapps/health-insurance-decision/master?filepath=health_insurance.ipynb) is an option, but it doesn't usually work great for me.
 
 I hope that this notebook might be useful to others, or encourage employers to provide
 better tools to simulate anticipated costs under different scenarios. We put our life into
 our work, and I believe that this knowledge is a right.
+
