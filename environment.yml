@@ -1,0 +1,6 @@
+name: dinosaur-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
