@@ -26,7 +26,7 @@ our work, and I believe that this knowledge is a right.
 Binder Hub is an option for rendering (and customizing) the notebook, but it doesn't usually work great for me.
 You can easily clone the repository here, and then start jupyter notebook (Python 3 kernel):
 
-``bash
+```bash
 git clone https://github.com/researchapps/health-insurance-decision
 cd health-insurance-decision
 jupyter notebook 
